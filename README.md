@@ -1,5 +1,7 @@
 # Devfolio
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/20e87714-bf5d-43da-9d41-6e133ac44ac3/deploy-status)](https://app.netlify.com/sites/azzarellocodes/deploys)
+
 ![Preview](https://user-images.githubusercontent.com/9112801/96329524-c8906600-101b-11eb-8fd8-4d45e7f0cd1b.jpg)
 
 Devfolio is a modern and production-ready personal portfolio and blog template built on GatsbyJS and styled with TailwindCSS. Easily show off your projects, experience, and skills, as well as write blog posts showcasing your knowledge.
