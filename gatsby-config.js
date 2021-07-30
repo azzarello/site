@@ -24,18 +24,18 @@ module.exports = {
           'A zero-config and blazing fast personal site + blog built with GatsbyJs and TailwindCSS',
         link: 'https://gamedayguru.com/',
       },
-      {
-        name: 'Enhanced Sensing Methods for UAV-based Disaster Recovery',
-        description:
-          'Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates',
-        link: 'https://chromeextensionkit.com/?ref=devfolio',
-      },
-      {
-        name: 'Paper Prisons Project',
-        description:
-          'Lorem ipsum dolor sit amet consectetur adipisicing elit ducimus perferendis',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
-      },
+      // {
+      //   name: 'Enhanced Sensing Methods for UAV-based Disaster Recovery',
+      //   description:
+      //     'Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates',
+      //   link: 'https://chromeextensionkit.com/?ref=devfolio',
+      // },
+      // {
+      //   name: 'Paper Prisons Project',
+      //   description:
+      //     'Lorem ipsum dolor sit amet consectetur adipisicing elit ducimus perferendis',
+      //   link: 'https://github.com/RyanFitzgerald/devfolio',
+      // },
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
@@ -46,7 +46,8 @@ module.exports = {
       },
       {
         name: 'Samirian Chemicals',
-        description: 'Business Systems Analyst Intern, May 2020 - September 2020',
+        description:
+          'Business Systems Analyst Intern, May 2020 - September 2020',
         link: 'https://github.com/RyanFitzgerald/devfolio',
       },
       {
@@ -128,8 +129,8 @@ module.exports = {
         name: `devfolio`,
         short_name: `devfolio`,
         start_url: `/`,
-        background_color: `#nord0`,
-        theme_color: `#nord0`, // This color appears on mobile
+        background_color: `#FFFFFF`,
+        theme_color: `#FFFFFF`, // This color appears on mobile
         display: `minimal-ui`,
         icon: `src/images/icon.png`,
       },

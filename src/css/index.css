@@ -4,12 +4,12 @@
 
 @layer base {
   .blog-content {
-    @apply nord6;
+    @apply text-black;
     @apply max-w-screen-md;
   }
 
   .blog-content a {
-    @apply text-nord5;
+    @apply text-black;
     @apply underline;
   }
 
