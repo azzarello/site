@@ -21,7 +21,7 @@ module.exports = {
       {
         name: 'Gameday Guru',
         description:
-          'Side-project/early stage startup focusing on providing innovative sports data analytics using advanced machine learning and industry experience in the sports gaming industry.',
+          'Side-project/early stage startup focusing on providing innovative sports data analytics using advanced machine learning and industry experience in sports gaming.',
         link: 'https://gamedayguru.com/',
       },
       {
